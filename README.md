@@ -7,18 +7,67 @@
 
 ---
 
-### 🔍 About Me
-- 🎓 B.Tech CSE @ Indus University (2021–2025), CGPA: 9.0
-- 🤖 Intelligent Automation Intern @ **ReligStaffing** — building AI bots for stock markets, Dream11 & recruitment!
-- 🧠 Former AI/ML Intern @ **Augmented LLP (UK)** — built ML pipelines for real-time defect detection
-- 🗃️ SQL Dev Intern @ **Shayona IT Services** — optimized relational DBs for speed
-- 🚀 Passionate about AI agents, RPA, vision systems & LLMs like LLaMA
-- 📢 Led workshops & tech events as **Tech Head** @ ISAC, Indus University
-- 🛠️ Blending ML, automation, and real-time systems with creativity & code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,opencv,mysql,html,css,javascript,github,vscode,git,aws,linux" /><br>
+  <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4> <a href="https://github.com/darsh-1010/smallbiz_inventory_software">📦 SmallBiz Inventory & Quotation System</a> </h4>
+      <p>
+        <b>A modern, professional web application for small businesses to manage inventory, generate quotations with AI, track sales, and automate client follow-ups.</b><br>
+        <i>Built with Streamlit, this solution streamlines business operations with an intuitive interface, automated email/PDF workflows, and real-time analytics.</i>
+      </p>
+      <ul>
+        <li>Inventory & stock management with low-stock alerts</li>
+        <li>AI-powered quotation generation & PDF/email automation</li>
+        <li>Sales, billing, and analytics modules</li>
+        <li>Modern, animated UI/UX</li>
+      </ul>
+      <a href="https://github.com/darsh-1010/smallbiz_inventory_software">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darsh-1010&repo=smallbiz_inventory_software&theme=tokyonight" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4> <a href="https://github.com/darsh-1010/ResumeMailer-AI">📧 ResumeMailer-AI</a> </h4>
+      <p>
+        <b>An AI-powered tool that automates personalized job applications by generating customized emails, attaching your resume, and sending them directly to HR contacts — all in one click.</b>
+      </p>
+      <ul>
+        <li>Automated, personalized job applications</li>
+        <li>Smart email generation and resume attachment</li>
+        <li>One-click send to HR contacts</li>
+        <li>Built for efficiency and scale</li>
+      </ul>
+      <a href="https://github.com/darsh-1010/ResumeMailer-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darsh-1010&repo=ResumeMailer-AI&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Other Cool Projects
+
+| 🔧 Project | 🚀 Tech Stack | 📌 Description |
+|-----------|---------------|----------------|
+| 🎙️ [Jarvis Assistant](https://github.com/darsh-1010/Jarvis-A-Voice-Based-Assistant-Powered-by-LLaMA) | Python, LLaMA, pyttsx3 | Voice-based desktop assistant powered by LLaMA with automation & AI |
+| 💬 [MultiPurpose ChatBot](https://github.com/darsh-1010/Python_chatbot) | Python, NLP, APIs | Rule-based bot with real-time news, weather, and currency capabilities |
+| ✋ [Gesture Volume Control](https://github.com/darsh-1010/OpenCV/blob/main/vol_cont.py) | Python, OpenCV, MediaPipe | Control system volume using hand gestures in real time |
+| 🚦 [Traffic Eye](https://github.com/darsh-1010/Traffic-eye) | YOLOv8, OCR, Python | Detects traffic violations + license plate recognition + automated alerts |
+| 📈 Stock Bot & Dream11 Predictor | XGBoost, RL, NLP, UiPath | AI-powered financial and fantasy predictions based on real-time signals |
+
+---
+
+## 🧰 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,opencv,mysql,html,css,javascript,github" />
@@ -31,19 +80,7 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| 🔧 Project | 🚀 Tech Stack | 📌 Description |
-|-----------|---------------|----------------|
-| 🎙️ [Jarvis Assistant](https://github.com/darsh-1010/Jarvis-A-Voice-Based-Assistant-Powered-by-LLaMA) | Python, LLaMA, pyttsx3 | Voice-based desktop assistant powered by LLaMA with automation & AI |
-| 💬 [MultiPurpose ChatBot](https://github.com/darsh-1010/Python_chatbot) | Python, NLP, APIs | Rule-based bot with real-time news, weather, and currency capabilities |
-| ✋ [Gesture Volume Control](https://github.com/darsh-1010/OpenCV/blob/main/vol_cont.py) | Python, OpenCV, MediaPipe | Control system volume using hand gestures in real time |
-| 🚦 [Traffic Eye](https://github.com/darsh-1010/Traffic-eye) | YOLOv8, OCR, Python | Detects traffic violations + license plate recognition + automated alerts |
-| 📈 Stock Bot & Dream11 Predictor | XGBoost, RL, NLP, UiPath | AI-powered financial and fantasy predictions based on real-time signals |
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darsh-1010&show_icons=true&theme=tokyonight" width="47%" />
@@ -56,7 +93,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:10102003darsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -66,7 +103,7 @@
 
 ---
 
-### 💡 Quote to Remember
+## 💡 Quote to Remember
 
 <p align="center">
   <b>“AI won't replace you. But a person using AI probably will.”</b>
