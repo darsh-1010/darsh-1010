@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Gen+AI+Explorer;Loves+solving+real-world+problems+with+AI;Voice,+Vision+,+RPA+developer" alt="Typing SVG" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,opencv,mysql,html,css,javascript,github,vscode,git,aws,linux" /><br>
-  <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
 
 ---
 
