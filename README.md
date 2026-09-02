@@ -123,7 +123,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-1010&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darsh-1010&theme=react-dark&hide_border=true" width="48%" />
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darsh-1010&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ### 🔥 Commit Activity Heatmap
@@ -131,6 +136,8 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/6c63ff/darsh-1010" alt="darsh-1010's commit heatmap" width="100%" />
 </p>
+
+> Both of the above pull from the same GitHub contribution data — if your private-repo work (like `finsight` or `Sql-Chatbot`) isn't showing up on either, check **Settings → Public profile → Contributions → Include private contributions on my profile**.
 
 ### 🏅 Trophies
 
